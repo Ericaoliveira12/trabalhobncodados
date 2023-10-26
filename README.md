@@ -260,6 +260,8 @@ img {
 </style>
 
 Grafico_barra.php:
+![image](https://github.com/Ericaoliveira12/trabalhobncodados/assets/111866617/a6aec2dd-28b3-41d8-aefe-b1544312747c)
+
 
 <!DOCTYPE html>
 <html>
