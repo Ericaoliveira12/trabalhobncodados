@@ -258,6 +258,14 @@ img {
 }
 
 </style>
+![image](https://github.com/Ericaoliveira12/trabalhobncodados/assets/111866617/1d2e034b-0a2f-4728-8cd8-42c11d970908)
+![image](https://github.com/Ericaoliveira12/trabalhobncodados/assets/111866617/f24d4433-9086-4e07-a465-7d11af77695b)
+![image](https://github.com/Ericaoliveira12/trabalhobncodados/assets/111866617/b31e0253-ff11-4280-99d7-807fcb22c96f)
+![image](https://github.com/Ericaoliveira12/trabalhobncodados/assets/111866617/35800650-983e-4371-8c21-c34422bf9657)
+
+
+
+
 
 Grafico_barra.php:
 ![image](https://github.com/Ericaoliveira12/trabalhobncodados/assets/111866617/a6aec2dd-28b3-41d8-aefe-b1544312747c)
